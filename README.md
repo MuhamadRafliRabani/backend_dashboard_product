@@ -25,25 +25,25 @@ Proyek ini adalah Backend (CRUD API) sederhana berbasis **Express.js**, yang Dig
 - Buka phpMyAdmin di browser kamu
   [phpMyAdmin](http://localhost/phpmyadmin)
   <br/>
-  - Buat database baru dengan nama sesuai yang kamu gunakan di file .env
-    (contoh: dashboard_product)
-    <br/>
-  - Buka project di VS Code dengan perintah:
-    <br/>
-    code .
-    <br/>
-    Buka file .env di root project, lalu sesuaikan dengan konfigurasi database lokal kamu, misalnya:
-    <br/>
-    <br/>
-    DB_HOST=localhost
-    <br/>
-    DB_USER=root
-    <br/>
-    DB_PASSWORD=
-    <br/>
-    DB_NAME=dashboard_product
-    <br/>
-    PORT=2000
+- Buat database baru dengan nama sesuai yang kamu gunakan di file .env
+  (contoh: dashboard_product)
+  <br/>
+- Buka project di VS Code dengan perintah:
+  <br/>
+  code .
+  <br/>
+  Buka file .env di root project, lalu sesuaikan dengan konfigurasi database lokal kamu, misalnya:
+  <br/>
+  <br/>
+  DB_HOST=localhost
+  <br/>
+  DB_USER=root
+  <br/>
+  DB_PASSWORD=
+  <br/>
+  DB_NAME=dashboard_product
+  <br/>
+  PORT=2000
 
 4. **Lalu jalankan server kamu**
    <br/>
