@@ -1,4 +1,4 @@
-# 💬 Next.js Chatbot App
+# 💬 Express Js CRUD API
 
 Proyek ini adalah Backend (CRUD API) sederhana berbasis **Express.js**, yang Digunakan untuk management product dan orders\*\*.
 
